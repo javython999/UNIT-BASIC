@@ -1,4 +1,4 @@
-const Calculator = require('../src/calculator');
+const Calculator = require('../calculator.js');
 
 describe('Calculator', () => {
 

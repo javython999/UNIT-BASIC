@@ -1,4 +1,4 @@
-const add = require('../src/add.js');
+const add = require('../add.js');
 
 test('', () => {
     // 테스트 코드 작성
